@@ -1,0 +1,7 @@
+---
+Name: bbp-paginatedlist
+---
+
+SilverStripe\ORM\PaginatedList:
+  extensions:
+    - BiffBangPow\Extension\PaginatedListExtension
